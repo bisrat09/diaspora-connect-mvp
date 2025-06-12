@@ -1,0 +1,2 @@
+{
+  "projects": {"diaspora-connect-mvp": {"architect": {"build": {"options": {"outputPath": "dist"}}}}}
